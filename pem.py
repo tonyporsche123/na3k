@@ -4,7 +4,7 @@ st.write("by Tony Porsché, Machine Learning Consultant")
 
 import json
 import requests  # pip install requests
-import streamlit_lottie as st_lottie
+from streamlit_lottie import st_lottie
 import emoji
 
 def load_lottiefile(filepath: str):
