@@ -1,7 +1,7 @@
 import streamlit as st
 import json
 import requests  
-from streamlit_lottie import st_lottie
+import streamlit_lottie as st_lottie
 import emoji
 st.header("Bonne et heureuse année 2023 à toute la famille PEM")
 st.write("by Tony Porsché, Machine Learning Consultant")
